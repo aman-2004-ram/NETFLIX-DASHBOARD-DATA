@@ -240,40 +240,6 @@ Netflix-Data-Analysis/
 └── images/
 ```
 
----
-
-# ▶️ How to Run
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/netflix-data-analysis.git
-```
-
-### Install Dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-### Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### Run
-
-Open
-
-```
-Netflix_Analysis.ipynb
-```
-
-Run all cells.
-
----
-
 # 📌 Business Insights
 
 - Movies dominate the Netflix catalog.
@@ -314,7 +280,7 @@ Through this project, you will learn:
 
 **Aman Das**
 
-Python | Data Analytics | Machine Learning Enthusiast
+Python | MCA Student |Data Analytics Enthusiast| 
 
 ---
 
